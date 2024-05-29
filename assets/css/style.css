@@ -1,0 +1,44 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+.upper {
+    max-width: 1000px;
+    margin: 50px auto;
+    background:rgb(243, 240, 240);
+    padding: 0px;
+}
+
+header img.profile-photo {
+    display: block;
+    margin: 0 auto 20px;
+    height: 200px;
+    width: 180px;
+    border-radius: 80%;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding:20px;
+}
+
+.design {
+    text-align: left;
+    background-image: url(https://www.greatvaluecolleges.net/wp-content/uploads/2021/04/computer-design.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+h1.design {
+    font-size: 2.5em;
+    margin: 20px 0 10px;
+    text-align: start;
+}
+
